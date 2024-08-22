@@ -14,3 +14,5 @@ export default {
 ```
 နောက်ဆုံး npm run dev သုံးလို့ရပြီ။
 
+Fonts
+tailwind -customize
